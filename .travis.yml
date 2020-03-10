@@ -1,6 +1,6 @@
 language: python
 paython:
-  -"3.6"
+  - "3.6"
 
 services:
   - docker
